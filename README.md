@@ -42,9 +42,7 @@ WIr werden eine Konsolenapplikation erstellen, die Benutzer zu Gruppen zuteilen 
 | 5.1 |     Datei wird gelesen   |  Keine       |   Fehler, Bitte überprüfe die Datei nochmals nach Fehlern.|
 | 6.1 |     Datei wird gelesen, 4.1| Keine | Korrekte Anzahl der Teilnehmer wird jedem Workshop zugeteilt.|
 
-### 1.4 Diagramme
 
-✍️ Hier können Sie PAPs, Use Case- und Gantt-Diagramme oder Ähnliches einfügen.
 
 ## 2 Planen
 
