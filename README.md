@@ -77,8 +77,6 @@ Wir entschieden uns für eine Fehlererkennung falls ein Workshop falsch geschrie
 | 5.A  | 10.11.2022 |    Benas       | 45min| 45min|
 
 
-✍️ Tragen Sie jedes Mal, wenn Sie ein Arbeitspaket abschließen, hier ein, wie lang Sie effektiv dafür hatten.
-
 ## 5 Kontrollieren
 
 ### 5.1 Testprotokoll
@@ -95,10 +93,9 @@ Wir entschieden uns für eine Fehlererkennung falls ein Workshop falsch geschrie
 | 5.1  | 17.11      | Nicht Ok   |        |
 | 6.1  | 17.11      | Nicht Ok |        |
 
-✍️ Vergessen Sie nicht, ein Fazit hinzuzufügen, welches das Test-Ergebnis einordnet.
+
 
 
 
 ## 6 Auswerten
-
-✍️ Fügen Sie hier eine Verknüpfung zu Ihrem Lern-Bericht ein.
+https://github.com/KStaeubleInf22/LA1200/blob/main/Lernbericht.md
